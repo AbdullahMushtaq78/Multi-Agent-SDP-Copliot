@@ -251,6 +251,7 @@ Customizable parameters for MASC.
 
 
 # Citation
+(will be updated soon - under review)
 If you use MASC or find it useful for your research, consider citing:
 
 ```bibtex
